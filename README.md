@@ -17,4 +17,4 @@ Uma das iniciativas do Airbnb é disponibilizar dados do site, para algumas das 
 
 Neste projeto, iremos analisar os dados referentes à cidade de Atenas, capital da Grécia, berço da civilização e filosofia, e ver quais insights podem ser extraídos a partir de dados brutos da base do Airbnb. A cidade é reconhecida como uma cidade global devido à sua localização geo-estratégica e sua importância em finanças, comércio, mídia, entretenimento, artes, comércio internacional, cultura, educação e turismo. Um dos principais pontos analisados é a influência da localização ou de outros fatores nos preços médios das diárias cobradas pelos hóspedes.
 
-[Clique aqui para ver o projeto!] ()
+[Clique aqui para ver o projeto!](https://github.com/joaomarcelofc/Analisando_Dados_Airbnb_Atenas/blob/main/Analisando_os_Dados_do_Airbnb_Atenas.ipynb)
